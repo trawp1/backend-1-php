@@ -1,3 +1,3 @@
 
 # Jhon Alejandro Tabares Morera
-## primera secion programacion orientada a objetos
+## Primera sesion programacion orientada a objetos
