@@ -2,10 +2,11 @@
 
 class Persona
 {
-    public function
+    public function saludar()
     {
-        echo "hola este es el primer  ejercicio con progrmacion orientada a objetos ";
+        echo "Hola, este es el primer ejercicio con programación orientada a objetos.";
     }
 }
+
 ?>
 
